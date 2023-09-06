@@ -1,202 +1,142 @@
 [
       {
         "id": 1,
-        "corrida": "Grande Prêmio da Austrália",
-        "data": "2023-03-19",
-        "vencedor": "Lewis Hamilton",
-        "equipe_vencedora": "Mercedes",
-        "nome_do_pais": "Austrália",
-        "bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/250px-Flag_of_Australia_%28converted%29.svg.png"
-      },
-
-      {
-        "id": 2,
-        "corrida": "Grande Prêmio do Bahrein",
-        "data": "2023-03-26",
+        "corrida": "Bahrain Grand Prix",
+        "data": "2023-03-05",
         "vencedor": "Max Verstappen",
         "equipe_vencedora": "Red Bull Racing",
-        "nome": "Bahrein",
+        "nome_do_pais": "Bahrain",
         "bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Bahrain.svg/255px-Flag_of_Bahrain.svg.png"
       },
 
       {
+        "id": 2,
+        "corrida": "Saudi Arabian Grand Prix",
+        "data": "2023-03-19",
+        "vencedor": "Sergio Perez",
+        "equipe_vencedora": "Red Bull Racing",
+        "nome": "Saudi Arabia",
+        "bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/250px-Flag_of_Saudi_Arabia.svg.png"
+      },
+
+      {
         "id": 3,
-        "corrida": "Grande Prêmio da China",
-        "data": "2023-04-09",
-        "vencedor": "Valtteri Bottas",
-        "equipe_vencedora": "Mercedes",
-        "nome": "China",
-        "bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/255px-Flag_of_the_People%27s_Republic_of_China.svg.png"
+        "corrida": "Australian Grand Prix",
+        "data": "2023-04-02",
+        "vencedor": "Max Verstappen",
+        "equipe_vencedora": "Red Bull Racing",
+        "nome": "Australian",
+        "bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/250px-Flag_of_Australia_%28converted%29.svg.png"
       },
 
       {
         "id": 4,
-        "corrida": "Grande Prêmio da Espanha",
+        "corrida": "Azerbaijan Grand Prix",
         "data": "2023-04-23",
-        "vencedor": "Charles Leclerc",
-        "equipe_vencedora": "Ferrari",
-        "nome": "Espanha",
-        "bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/255px-Flag_of_Spain.svg.png"
+        "vencedor": "Sergio Perez",
+        "equipe_vencedora": "Red Bull Racing",
+        "nome": "Azerbaijan",
+        "bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/1200px-Flag_of_Azerbaijan.svg.png"
       },
 
       {
         "id": 5,
-        "corrida": "Grande Prêmio de Mônaco",
+        "corrida": "United States Grand Prix",
         "data": "2023-05-07",
         "vencedor": "Max Verstappen",
         "equipe_vencedora": "Red Bull Racing",
-        "nome": "Mônaco",
-        "bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Flag_of_Monaco.svg/213px-Flag_of_Monaco.svg.png"
-      },
-
-      {
-        "id": 6,
-        "corrida": "Grande Prêmio do Canadá",
-        "data": "2023-05-21",
-        "vencedor": "Lewis Hamilton",
-        "equipe_vencedora": "Mercedes",
-        "nome": "Canadá",
-        "bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/305px-Flag_of_Canada_%28Pantone%29.svg.png"
-      },
-
-      {
-        "id": 7,
-        "corrida": "Grande Prêmio da França",
-        "data": "2023-06-11",
-        "vencedor": "Lewis Hamilton",
-        "equipe_vencedora": "Mercedes",
-        "nome": "França",
-        "bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%29.svg/255px-Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%29.svg.png"
-      },
-
-      {
-        "id": 8,
-        "corrida": "Grande Prêmio da Áustria",
-        "data": "2023-06-25",
-        "vencedor": "Max Verstappen",
-        "equipe_vencedora": "Red Bull Racing",
-        "nome": "Áustria",
-        "bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/255px-Flag_of_Austria.svg.png"
-      },
-
-      {
-        "id": 9,
-        "corrida": "Grande Prêmio da Grã-Bretanha",
-        "data": "2023-07-09",
-        "vencedor": "Lewis Hamilton",
-        "equipe_vencedora": "Mercedes",
-        "nome": "Grã-Bretanha",
-        "bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/255px-Flag_of_the_United_Kingdom_%283-5%29.svg.png"
-      },
-
-      {
-        "id": 10,
-        "corrida": "Grande Prêmio da Hungria",
-        "data": "2023-07-23",
-        "vencedor": "Lewis Hamilton",
-        "equipe_vencedora": "Mercedes",
-        "nome": "Hungira",
-        "bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/255px-Flag_of_Hungary.svg.png"
-      },
-
-      {
-        "id": 11,
-        "corrida": "Grande Prêmio da Bélgica",
-        "data": "2023-08-06",
-        "vencedor": "Max Verstappen",
-        "equipe_vencedora": "Red Bull Racing",
-        "nome": "Bélgica",
-        "bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Belgium.svg/196px-Flag_of_Belgium.svg.png"
-      },
-
-      {
-        "id": 12,
-        "corrida": "Grande Prêmio da Holanda",
-        "data": "2023-08-20",
-        "vencedor": "Max Verstappen",
-        "equipe_vencedora": "Red Bull Racing",
-        "nome": "Holanda",
-        "bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/125px-Flag_of_the_Netherlands.svg.png"
-      },
-
-      {
-        "id": 13,
-        "corrida": "Grande Prêmio da Itália",
-        "data": "2023-09-03",
-        "vencedor": "Charles Leclerc",
-        "equipe_vencedora": "Ferrari",
-        "nome": "Itália",
-        "bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/125px-Flag_of_Italy.svg.png"
-      },
-
-      {
-        "id": 14,
-        "corrida": "Grande Prêmio de Cingapura",
-        "data": "2023-09-17",
-        "vencedor": "Max Verstappen",
-        "equipe_vencedora": "Red Bull Racing",
-        "nome": "Cingapura",
-        "bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/125px-Flag_of_Singapore.svg.png"
-      },
-
-      {
-        "id": 15,
-        "corrida": "Grande Prêmio da Rússia",
-        "data": "2023-10-01",
-        "vencedor": "Lewis Hamilton",
-        "equipe_vencedora": "Mercedes",
-        "nome": "Rússia",
-        "bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/125px-Flag_of_Russia.svg.png"
-      },
-
-      {
-        "id": 16,
-        "corrida": "Grande Prêmio do Japão",
-        "data": "2023-10-15",
-        "vencedor": "Valtteri Bottas",
-        "equipe_vencedora": "Mercedes",
-        "nome": "Japão",
-        "bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/125px-Flag_of_Japan.svg.png"
-      },
-
-      {
-        "id": 17,
-        "corrida": "Grande Prêmio dos Estados Unidos",
-        "data": "2023-10-29",
-        "vencedor": "Max Verstappen",
-        "equipe_vencedora": "Red Bull Racing",
-        "nome": "Estados Unidos",
+        "nome": "United States",
         "bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/125px-Flag_of_the_United_States.svg.png"
       },
 
       {
-        "id": 18,
-        "corrida": "Grande Prêmio do México",
-        "data": "2023-11-12",
-        "vencedor": "Lewis Hamilton",
-        "equipe_vencedora": "Mercedes",
-        "nome": "México",
-        "bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/125px-Flag_of_Mexico.svg.png"
-      },
-
-      {
-        "id": 19,
-        "corrida": "Grande Prêmio do Brasil",
-        "data": "2023-11-26",
+        "id": 6,
+        "corrida": "Monaco Grand Prix",
+        "data": "2023-05-28",
         "vencedor": "Max Verstappen",
         "equipe_vencedora": "Red Bull Racing",
-        "nome": "Brasil",
-        "bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/125px-Flag_of_Brazil.svg.png"
+        "nome": "Monaco",
+        "bandeira": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg"
       },
 
       {
-        "id": 20,
-        "corrida": "Grande Prêmio de Abu Dhabi",
-        "data": "2023-12-03",
-        "vencedor": "Lewis Hamilton",
-        "equipe_vencedora": "Mercedes",
-        "nome": "Abu Dhabi",
-        "bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Flag_of_Abu_Dhabi.svg/100px-Flag_of_Abu_Dhabi.svg.png"
+        "id": 7,
+        "corrida": "Spain Grand Prix",
+        "data": "2023-06-04",
+        "vencedor": "Max Verstappen",
+        "equipe_vencedora": "Red Bull Racing",
+        "nome": "Spain",
+        "bandeira": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg"
+      },
+
+      {
+        "id": 8,
+        "corrida": "Canada Grand Prix",
+        "data": "2023-06-18",
+        "vencedor": "Max Verstappen",
+        "equipe_vencedora": "Red Bull Racing",
+        "nome": "Canada",
+        "bandeira": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Canada_%28Pantone%29.svg"
+      },
+
+      {
+        "id": 9,
+        "corrida": "Austria Grand Prix",
+        "data": "2023-07-02",
+        "vencedor": "Max Verstappen",
+        "equipe_vencedora": "Red Bull Racing",
+        "nome": "Austria",
+        "bandeira": "https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg"
+      },
+
+      {
+        "id": 10,
+        "corrida": "Great Britain Grand Prix",
+        "data": "2023-07-09",
+        "vencedor": "Max Verstappen",
+        "equipe_vencedora": "Red Bull Racing",
+        "nome": "Great Britain",
+        "bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Great_Britain_%281707%E2%80%931800%29.svg/255px-Flag_of_Great_Britain_%281707%E2%80%931800%29.svg.png"
+      },
+
+      {
+        "id": 11,
+        "corrida": "Hungary Grand Prix",
+        "data": "2023-08-23",
+        "vencedor": "Max Verstappen",
+        "equipe_vencedora": "Red Bull Racing",
+        "nome": "Hungary",
+        "bandeira": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg"
+      },
+
+      {
+        "id": 12,
+        "corrida": "Belgium Grand Prix",
+        "data": "2023-07-30",
+        "vencedor": "Max Verstappen",
+        "equipe_vencedora": "Red Bull Racing",
+        "nome": "Belgium",
+        "bandeira": "https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg"
+      },
+
+      {
+        "id": 13,
+        "corrida": "Netherlands Grand Prix",
+        "data": "2023-08-27",
+        "vencedor": "Max Verstappen",
+        "equipe_vencedora": "Red Bull Racing",
+        "nome": "Netherlands",
+        "bandeira": "https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg"
+      },
+
+      {
+        "id": 14,
+        "corrida": "Italy Grand Prix",
+        "data": "2023-09-03",
+        "vencedor": "Max Verstappen",
+        "equipe_vencedora": "Red Bull Racing",
+        "nome": "Italy",
+        "bandeira": "https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg"
       }
 ]
   

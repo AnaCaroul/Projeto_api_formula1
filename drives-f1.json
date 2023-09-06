@@ -1,143 +1,151 @@
 [
       {
         "id": 1,
-        "nome": "Lewis Hamilton",
-        "equipe": "Mercedes",
-        "pontuacao": 365,
-        "foto": "https://cdn-2.motorsport.com/images/mgl/0mb95oa2/s800/lewis-hamilton-mercedes-1.jpg"
+        "nome": "Max Verstappen",
+        "equipe": "Red Bull Racing",
+        "pontuacao": 364,
+        "foto": "https://cdn-9.motorsport.com/images/mgl/Y99d13AY/s800/max-verstappen-red-bull-racing-1.jpg"
+        
       },
       {
         "id": 2,
-        "nome": "Max Verstappen",
-        "equipe": "Red Bull Racing",
-        "pontuacao": 352,
-        "foto": "https://cdn-9.motorsport.com/images/mgl/Y99d13AY/s800/max-verstappen-red-bull-racing-1.jpg"
+        "nome": "Lewis Hamilton",
+        "equipe": "Mercedes",
+        "pontuacao": 164,
+        "foto": "https://cdn-2.motorsport.com/images/mgl/0mb95oa2/s800/lewis-hamilton-mercedes-1.jpg"
       },
       {
         "id": 3,
         "nome": "Valtteri Bottas",
-        "equipe": "Mercedes",
-        "pontuacao": 226,
+        "equipe": "Alfa Romeo",
+        "pontuacao": 6,
         "foto": "https://cdn-1.motorsport.com/images/mgl/YW7pkO1Y/s800/valtteri-bottas-alfa-romeo-1.jpg"
       },
       {
         "id": 4,
         "nome": "Sergio Perez",
         "equipe": "Red Bull Racing",
-        "pontuacao": 190,
+        "pontuacao": 219,
         "foto": "https://cdn-9.motorsport.com/images/mgl/0a9neZP0/s800/sergio-perez-red-bull-racing-1.jpg"
       },
       {
         "id": 5,
         "nome": "Lando Norris",
         "equipe": "McLaren",
-        "pontuacao": 176,
+        "pontuacao": 79,
         "foto": "https://cdn-4.motorsport.com/images/mgl/2GzrEd10/s800/lando-norris-mclaren-1.jpg"
       },
       {
         "id": 6,
         "nome": "Charles Leclerc",
         "equipe": "Ferrari",
-        "pontuacao": 159,
+        "pontuacao": 111,
         "foto": "https://cdn-1.motorsport.com/images/mgl/Yv854VL0/s800/charles-leclerc-ferrari-1.jpg"
       },
       {
         "id": 7,
-        "nome": "Carlos Sainz Jr.",
+        "nome": "Carlos Sainz",
         "equipe": "Ferrari",
-        "pontuacao": 152,
+        "pontuacao": 117,
         "foto": "https://cdn-3.motorsport.com/images/mgl/YKEZkBr0/s800/carlos-sainz-ferrari-1.jpg"
       },
       {
         "id": 8,
         "nome": "Daniel Ricciardo",
-        "equipe": "McLaren",
-        "pontuacao": 115,
+        "equipe": "AlphaTauri",
+        "pontuacao": 0,
         "foto": "https://cdn-8.motorsport.com/images/mgl/YP3MGd32/s800/daniel-ricciardo-alphatauri-1.jpg"
       },
       {
         "id": 9,
         "nome": "Fernando Alonso",
-        "equipe": "Alpine",
-        "pontuacao": 68,
+        "equipe": "Aston Martin",
+        "pontuacao": 170,
         "foto": "https://cdn-5.motorsport.com/images/mgl/6AEomeD6/s8/fernando-alonso-aston-martin-r-1.jpg"
       },
       {
         "id": 10,
         "nome": "Pierre Gasly",
-        "equipe": "AlphaTauri",
-        "pontuacao": 74,
+        "equipe": "Alpine",
+        "pontuacao": 37,
         "foto": "https://cdn-6.motorsport.com/images/mgl/27vmVpo0/s800/pierre-gasly-alpine-1.jpg"
       },
       {
         "id": 11,
-        "nome": "Sebastian Vettel",
-        "equipe": "Aston Martin",
-        "pontuacao": 48,
-        "foto": "https://hips.hearstapps.com/hmg-prod/images/dsc-2917-edit-1-1645185757.jpg?crop=1.00xw:0.334xh;0,0.153xh&resize=1200:*"
+        "nome": "Oscar Piastri",
+        "equipe": "McLaren",
+        "pontuacao": 36,
+        "foto": "https://cdn-2.motorsport.com/images/mgl/6n9Ba7XY/s8/oscar-piastri-mclaren-1.jpg"
       },
       {
         "id": 12,
         "nome": "Esteban Ocon",
         "equipe": "Alpine",
-        "pontuacao": 74,
+        "pontuacao": 36,
         "foto": "https://cdn-9.motorsport.com/images/mgl/2y31zO96/s8/esteban-ocon-alpine-1.jpg"
       },
       {
         "id": 13,
         "nome": "Lance Stroll",
         "equipe": "Aston Martin",
-        "pontuacao": 40,
+        "pontuacao": 47,
         "foto": "https://cdn-6.motorsport.com/images/mgl/0oOE4Zl0/s8/lance-stroll-aston-martin-raci-1.jpg"
       },
       {
         "id": 14,
         "nome": "Yuki Tsunoda",
         "equipe": "AlphaTauri",
-        "pontuacao": 32,
+        "pontuacao": 3,
         "foto": "https://cdn-7.motorsport.com/images/mgl/6l9g48x0/s800/yuki-tsunoda-alphatauri-1.jpg"
       },
       {
         "id": 15,
-        "nome": "Kimi Räikkönen",
-        "equipe": "Alfa Romeo",
-        "pontuacao": 10,
-        "foto": "https://www.grandepremio.com.br/wp-content/uploads/2021/03/alfaromeo-kimiraikkonen.jpg"
+        "nome": "Nico Hulkenberg",
+        "equipe": "Hass F1 Team",
+        "pontuacao": 9,
+        "foto": "https://cdn-1.motorsport.com/images/mgl/6D1QwKx0/s800/nico-hulkenberg-haas-1.jpg"
       },
       {
         "id": 16,
-        "nome": "Antonio Giovinazzi",
+        "nome": "2HOU Guanyu",
         "equipe": "Alfa Romeo",
         "pontuacao": 4,
-        "foto": "https://hips.hearstapps.com/hmg-prod/images/arro-2021-gio-racesuit-fullbody-helmet-0505-1613996037.jpg?crop=1.00xw:0.375xh;0,0.0765xh&resize=1200:*"
+        "foto": "https://cdn-9.motorsport.com/images/mgl/YP3jk9A2/s8/zhou-guanyu-alfa-romeo-1.jpg"
       },
       {
         "id": 17,
-        "nome": "Mick Schumacher",
-        "equipe": "Haas",
-        "pontuacao": 0,
-        "foto": "https://guiaauto.com.br/wp-content/uploads/2022/12/mick-schumacher-haas-f1-team-1.jpg"
+        "nome": "Kevin Magnussen",
+        "equipe": "Haas F1 Team",
+        "pontuacao": 2,
+        "foto": "https://cdn-4.motorsport.com/images/mgl/0ZRMkxo0/s8/kevin-magnussen-haas-1.jpg"
       },
       {
         "id": 18,
-        "nome": "Nikita Mazepin",
-        "equipe": "Haas",
+        "nome": "Loagn Sargeant",
+        "equipe": "Williams",
         "pontuacao": 0,
-        "foto": "https://hips.hearstapps.com/hmg-prod/images/j5a5556-284-1645439106.jpeg?crop=1.00xw:0.334xh;0,0.0902xh&resize=1200:*"
+        "foto": "https://cdn-3.motorsport.com/images/mgl/68yNXxX0/s8/logan-sargeant-williams-1.jpg"
       },
       {
         "id": 19,
-        "nome": "Nicholas Latifi",
-        "equipe": "Williams",
+        "nome": "Liam Lawson",
+        "equipe": "AlphaTauri",
         "pontuacao": 0,
-        "foto": "https://www.formulaf1.es/wp-content/uploads/2020/02/nicholas-latifi-williams.png"
+        "foto": "https://sportsbase.io/images/gpfans/copy_380x388/1ab1e66a5dafb250675bf5d08f54c3cbd41c4319.png"
       },
       {
         "id": 20,
         "nome": "George Russell",
-        "equipe": "Williams",
-        "pontuacao": 16,
+        "equipe": "Mercedes",
+        "pontuacao": 109,
         "foto": "https://cdn-5.motorsport.com/images/mgl/Yv85r310/s800/george-russell-mercedes-1.jpg"
+      },
+      {
+        "id": 19,
+        "nome": "Nyck De Vries",
+        "equipe": "AlphaTauri",
+        "pontuacao": 0,
+        "foto": "https://cdn-7.motorsport.com/images/mgl/2Qz5kRNY/s8/nyck-de-vries-alphatauri-1.jpg"
       }
 ]
   

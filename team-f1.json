@@ -1,0 +1,73 @@
+[
+    {
+        "id": 1,
+        "team_nome": "Red Bull Racing",
+        "team_chief": "Christian Horner",
+        "foto": "https://cdn-5.motorsport.com/images/mgl/Y99JQRbY/s8/red-bull-racing-logo-1.jpg",
+        "dupla": "Perez and Verstappen"
+    },
+    {
+        "id": 2,
+        "team_nome": "Mercedes",
+        "team_chief": "Toto Wolff",
+        "foto": "https://seeklogo.com/images/M/mercedes-amg-f1-logo-1ED622D95E-seeklogo.com.png",
+        "dupla": "Hamilton and Russel"
+    },
+    {
+        "id": 3,
+        "team_nome": "Ferrari",
+        "team_chief": "Frederic Vasseur",
+        "foto": "https://i.imgur.com/jH6hF66.png",
+        "dupla": "Leclerc and Sainz"
+    },
+    {
+        "id": 4,
+        "team_nome": "Astron Martin",
+        "team_chief": "Mike Krack",
+        "foto": "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1600x900/format/jpg/quality/85/https://s.aolcdn.com/os/ab/_cms/2022/07/19145924/7Aston-Martin-Wings-Logo-Evolution2.jpg",
+        "dupla": "Stroll and Alonso"
+    },
+    {
+        "id": 5,
+        "team_nome": "McLaren",
+        "team_chief": "Andrea Stella",
+        "foto": "https://www.f1authentics.com/cdn/shop/collections/eb4736d835d7f3c47bf294557e16aed2.jpg?v=1682677332&width=2048",
+        "dupla": "Piastri and Norris"
+    },
+    {
+        "id": 6,
+        "team_nome": "Alpine",
+        "team_chief": "Bruno Famin",
+        "foto": "https://www.f1mania.net/wp-content/uploads/2021/02/alpine.jpg",
+        "dupla": "Gasly and Ocon"
+    },
+    {
+        "id": 7,
+        "team_nome": "Williams",
+        "team_chief": "James Vowles",
+        "foto": "https://media.formula1.com/content/dam/fom-website/2018-redesign-assets/team%20logos/williams%20blue.jpg",
+        "dupla": "Sargeant and Albon"
+    },
+    {
+        "id": 8,
+        "team_nome": "Haas F1 Team",
+        "team_chief": "Guenther Steiner",
+        "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Haas_F1_Team_Logo.svg/2560px-Haas_F1_Team_Logo.svg.png",
+        "dupla": "Magnussen and Hulkenberg"
+    },
+    {
+        "id": 9,
+        "team_nome": "Alfa Romeo",
+        "team_chief": "Alessandro Alunni Bravi",
+        "foto": "https://www.media.stellantis.com/cache/a/f/d/3/8/afd38d88b5b35e032b2977642c5fb1868d9483c4.jpeg",
+        "dupla": "Bottas and 2HOU"
+    }, 
+    {
+        "id": 10,
+        "team_nome": "AlphaTauri",
+        "team_chief": "Franz Tost",
+        "foto": "https://scuderia.alphatauri.com/wp-content/uploads/2018/10/Scuderia-AlphaTauri-logo-Google.png",
+        "dupla": "Lawson and Tsunoda"
+    }
+
+]
